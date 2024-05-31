@@ -32,3 +32,7 @@ Contributions are welcome! If you have suggestions, bug reports, or want to cont
 
 This project is licensed under the Apache License.
 
+## Medium Article
+For more detailed information about this project, check out my Medium article. (https://medium.com/@esrakorkmazz/strategic-positioning-analyzing-mta-metro-data-for-womentechwomenyes-street-teams-badd8beb09b7)
+
+
